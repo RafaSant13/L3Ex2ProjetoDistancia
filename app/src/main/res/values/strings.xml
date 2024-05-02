@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L3Ex2ProjetoDistancia</string>
+    <string name="consumo">Consumo Médio(Km/l)</string>
+    <string name="litros">Litros</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">m</string>
+</resources>
